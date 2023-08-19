@@ -1,4 +1,7 @@
-### Hi there 👋
+### ENTER AT YOUR OWN RISK
+<picture>
+  <img alt="lip reading" src="https://media.giphy.com/media/ixCowdfOnh0B62G6n6/giphy.gif">
+</picture>
 
 <!--
 **00Halfman00/00Halfman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
