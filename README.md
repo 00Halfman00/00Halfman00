@@ -1,8 +1,9 @@
 <div style="display: flex; flex-direction: column;">
-  <h1>STEP INSIDE</h1>
+  <h1>Did you bring it?</h1>
 <picture>
   <img alt="lip reading" src="https://media.giphy.com/media/ixCowdfOnh0B62G6n6/giphy.gif">
 </picture>
+  <h2>Where is it?</h2>
 </div>
 <!--
 **00Halfman00/00Halfman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
