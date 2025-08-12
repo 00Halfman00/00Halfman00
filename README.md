@@ -38,10 +38,4 @@ Here’s what I’ve been up to lately:
 
 ---
 
-### 📫 Connect with me
-- [GitHub](https://github.com/00Halfman00)  
-- [LinkedIn](https://www.linkedin.com/in/00oscarsanchez00/) 
-
----
-
 💡 _I believe in learning by building — every project is a lab for testing ideas, breaking things, and making them better._
