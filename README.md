@@ -1,4 +1,4 @@
-
+ ✨ Currently learning Data Science and Machine Learnin. ✨
 <!--
 **00Halfman00/00Halfman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
