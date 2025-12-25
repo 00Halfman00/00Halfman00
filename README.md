@@ -1,51 +1,36 @@
 # Hi there 👋 I'm Oscar
 
-## 🚀 AI Engineer & Cloud Architect in the Making ✨
+## 🤖 AI Engineer & Cloud Architect | Building Agentic Ecosystems ✨
 
-I’m a developer who loves building systems that connect, scale, and make sense out of data. Currently, I am bridging the gap between robust backend architecture and the world of Generative AI.
+I bridge the gap between robust backend architecture and the next generation of AI. Currently, I specialize in building **Agentic Workflows** that scale on the Cloud.
 
 ---
 
 ### 🛠 What I’m working on right now:
 
-- 🤖 **AI Engineering**: Developing **Agentic Workflows** using the **Google ADK (Agent Development Kit)** and **FastMCP**. I build custom MCP servers that allow LLMs like Gemini to interact with the real world (image generation, data analysis, and file systems).
-- ☁️ **Cloud Native Apps**: Architecting microservices with **Node.js**, **TypeScript**, **Docker**, and **Kubernetes**. I leverage **GCP** for AI workloads and **AWS** for scalable infrastructure.
-- 🧪 **Data Science**: Extracting insights using **pandas**, **scikit-learn**, and **Matplotlib** to build data-driven applications.
-- ✍️ **Efficiency**: Leveling up my development speed using **Cursor** to pair-program with AI and optimize complex refactors.
+- 🤖 **AI Engineering**: Developing custom **MCP (Model Context Protocol)** servers using the **Google ADK**. I specialize in creating tools that allow LLMs like **Gemini 2.5 Flash** to perform real-world tasks (vision, file management, and tool-calling).
+- ☁️ **Cloud Native Apps**: Architecting microservices on **GCP** (for AI workloads) and **AWS** (for scalable infrastructure) using **Docker** and **Kubernetes**.
+- 🧪 **Data Science**: Extracting actionable insights from complex datasets using **pandas**, **scikit-learn**, and **Matplotlib**.
+- ✍️ **Efficiency**: Optimizing the developer loop with **Cursor**, leveraging AI pair-programming to write cleaner code, faster.
 
 ---
 
 ### 🧰 Languages and Tools
 
-**Cloud & DevOps**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
-
-**AI & Data Science**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="Gemini" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-</p>
-
-**Backend & Web**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| **AI & Data** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Workflow** | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 ### 🧠 Technical Philosophy & Lessons Learned
-* **Scale First**: If it can't run in a container, it shouldn't be in production.
-* **Clean Pipes**: When building AI Agents via MCP, keep your Stdio communication clean and your diagnostic logs in separate files.
-* **Fundamental Truths**: Never forget that **Python cannot iterate over an integer!** (Always loop over your collections, not your counts).
+
+* **Clean Pipes**: When building AI Agents via MCP, keep the `Stdio` communication channel strictly for JSON. Diagnostic data belongs in independent `.log` files to prevent the "brain" from choking on plain text.
+* **Separation of Concerns**: Let the **Root Agent** handle the strategy and the **MCP Tools** handle the execution.
+* **Fundamental Truths**: No matter how complex the AI gets, remember the basics: **You cannot iterate over an integer!** Always loop over collections, not counts.
 
 ---
 
