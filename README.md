@@ -35,6 +35,11 @@ I bridge the gap between robust backend architecture and the next generation of 
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Oscar's GitHub stats" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=00Halfman00&show_icons=true&theme=tokyonight" alt="Oscar's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Halfman00&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
