@@ -37,7 +37,7 @@ I bridge the gap between robust backend architecture and the next generation of 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/00Halfman00/00Halfman00/main/github-metrics.svg" alt="Oscar's GitHub stats" width="100%"/>
+  <img src="https://raw.githubusercontent.com/00Halfman00/00Halfman00/main/github-metrics.svg" alt="Oscar's GitHub stats" width="450px"/>
 </p>
 
 <p align="center">
